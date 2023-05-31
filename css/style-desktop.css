@@ -69,6 +69,7 @@
     border-radius: 30px;
     width: 120px;
     padding: 11px;
+    cursor:pointer;
   }
 
   .button-sedans:hover {
@@ -119,6 +120,7 @@
     border-radius: 30px;
     width: 120px;
     padding: 11px;
+    cursor:pointer;
   }
 
   .button-suvs:hover {
@@ -169,6 +171,7 @@
     border-radius: 30px;
     width: 120px;
     padding: 11px;
+    cursor:pointer;
   }
 
   .button-luxury:hover {
