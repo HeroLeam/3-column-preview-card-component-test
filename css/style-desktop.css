@@ -4,8 +4,9 @@
 /* font-family: 'Lexend Deca', sans-serif; */
 
 @media only screen and (orientation: landscape) {
-  body {
+  html, body {
     max-width: 1440px;
+    height: 100%; 
     background-color: hsl(0, 0%, 95%);
     margin: 0 auto;
     display: flex;
